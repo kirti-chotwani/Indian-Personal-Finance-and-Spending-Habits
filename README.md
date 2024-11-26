@@ -17,6 +17,6 @@ Examines relationships between financial variables to uncover any significant pa
 Uses clustering algorithms to group individuals into segments based on financial behavior, identifying patterns in income, expenses, and savings.
 ## 7. Risk Profiling
 Develops financial risk profiles to classify individuals as low, moderate, or high risk based on their financial stability and behavior.
-##How to Use
+## How to Use
 Clone the repository and open the Jupyter notebook to explore the code and results.
 The notebook includes visualizations and insights that can be useful for anyone interested in personal finance analysis.
