@@ -1,7 +1,7 @@
 # Indian-Personal-Finance-and-Spending-Habits
 This repository contains a Jupyter notebook focused on financial analysis. The analysis aims to provide insights into individuals' financial profiles, including income, expenses, savings, and risk assessments. The notebook includes the following steps:
 
-## Exploratory Data Analysis (EDA)
+## 1. Exploratory Data Analysis (EDA)
 An initial exploration of the dataset to understand its structure and identify key features related to individuals' financial situations.
 ## 2. Univariate Analysis
 Salary distribution: Visualizes income trends across individuals.
