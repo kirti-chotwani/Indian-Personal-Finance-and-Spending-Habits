@@ -15,7 +15,11 @@ Compares desired savings with actual income and evaluates potential savings acro
 Examines relationships between financial variables to uncover any significant patterns or dependencies.
 ## 6. Clustering Based on Financial Profiles
 Uses clustering algorithms to group individuals into segments based on financial behavior, identifying patterns in income, expenses, and savings.
-## 7. Risk Profiling
+## 7. Outlier Analysis
+Uses box plots to visualize and analyze outliers in financial features like income, disposable income, rent, and loan repayment.
+Identifies extreme data points that may represent niche financial profiles, data errors, or exceptional cases.
+Discusses the impact of outliers on clustering and risk profiling while highlighting strategies for handling them, such as removal or capping.
+## 8. Risk Profiling
 Develops financial risk profiles to classify individuals as low, moderate, or high risk based on their financial stability and behavior.
 ## How to Use
 Clone the repository and open the Jupyter notebook to explore the code and results.
